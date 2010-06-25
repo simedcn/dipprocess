@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "图像处理", "图像处理\图像处理.csproj", "{923831A9-C9EE-4E50-8372-F74CF8A23B1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIP", "DIP\DIP.csproj", "{8AA155FB-D3FF-47AC-B222-4D3EC6448814}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PICLib", "PICLib\PICLib.csproj", "{03C47383-C922-4052-AAC0-3BAAD28E744F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DipProcess", "DipProcess\DipProcess.csproj", "{63905A9E-7FE7-4224-A629-582C73BA92FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDataBase", "TestDataBase\TestDataBase.csproj", "{BE2354CE-82CD-499C-9771-0CAA6666EEDA}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{923831A9-C9EE-4E50-8372-F74CF8A23B1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{923831A9-C9EE-4E50-8372-F74CF8A23B1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{923831A9-C9EE-4E50-8372-F74CF8A23B1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{923831A9-C9EE-4E50-8372-F74CF8A23B1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AA155FB-D3FF-47AC-B222-4D3EC6448814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AA155FB-D3FF-47AC-B222-4D3EC6448814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AA155FB-D3FF-47AC-B222-4D3EC6448814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AA155FB-D3FF-47AC-B222-4D3EC6448814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03C47383-C922-4052-AAC0-3BAAD28E744F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03C47383-C922-4052-AAC0-3BAAD28E744F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03C47383-C922-4052-AAC0-3BAAD28E744F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03C47383-C922-4052-AAC0-3BAAD28E744F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63905A9E-7FE7-4224-A629-582C73BA92FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63905A9E-7FE7-4224-A629-582C73BA92FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63905A9E-7FE7-4224-A629-582C73BA92FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63905A9E-7FE7-4224-A629-582C73BA92FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE2354CE-82CD-499C-9771-0CAA6666EEDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE2354CE-82CD-499C-9771-0CAA6666EEDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE2354CE-82CD-499C-9771-0CAA6666EEDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE2354CE-82CD-499C-9771-0CAA6666EEDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(PowerDesigner) = preSolution
+		HasSWS = 1
+	EndGlobalSection
+EndGlobal
